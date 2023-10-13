@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+I found [this article](https://sdtimes.com/softwaredev/jetbrains-now-has-a-dedicated-ide-for-rust/) interesting because I have been using JetBrains' IDEs for a long time now, starting with IntelliJ for Java. I have been meaning to get into Rust, so JetBrains coming out with a Rust specfic IDE is great news. I have been forced to use VSCode recently, and I've been missing JetBrains' IDEs because of it. Being forced into using VSCode has highlighted just how good I had it, using the education license to get access to all of JetBrains' IDEs. VSCode is still quite nice, don't get me wrong, but in my experience it is much less responsive, and its code suggestions and refactoring left much to be desired for me personally.
+
+### Comment by Michael
+
+I never seen an IDE with real-time code collaboration before. That would be something I would want to try out.
